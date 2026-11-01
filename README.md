@@ -1,56 +1,27 @@
-# Welcome to your Expo app 👋
+# ScholarMatch: Intelligence Scholarship Eligibility and Recommendation System 🎓
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+ScholarMatch is an AI-powered scholarship discovery platform designed to help students find scholarships that match their profile.  
+Instead of spending hours searching across multiple websites, students can simply upload their resume or fill in their profile, and our AI engine recommends the most relevant scholarships.
 
-## Get started
+## ✨ Features
+- 🔍 **AI-Powered Matching** – Recommendations based on GPA, program, location, academic level, and financial need.  
+- 📄 **Resume Parsing** – Upload a resume to automatically generate a student profile.  
+- 🤖 **AI Scholarship Advisor** – Eligibility checks, essay guidance, and application tips via chatbot.  
+- 📊 **Dashboard & Roadmap** – Track application progress and identify areas for improvement.  
+- 📌 **Application Tracker** – Manage deadlines and submission status in one place.  
+- 🔐 **Secure Authentication** – Safe login system for multiple users.  
+- ☁️ **Cloud Storage** – Store resumes and transcripts securely in the cloud.  
 
-1. Install dependencies
+## 🛠️ Tech Stack
+- **Frontend**: Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB Atlas  
+- **Authentication**: JWT / Firebase Auth  
+- **Deployment**: Vercel / Heroku  
 
+## 🚀 How to Run
+1. Clone the repository:
    ```bash
-   npm install
-   ```
+   git clone <repository_link>
+   cd scholar-match
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
