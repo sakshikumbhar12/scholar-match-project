@@ -1,0 +1,147 @@
+[
+    {
+        "id": "mahadbt-sc-postmatric",
+        "name": "Government of India Post-Matric Scholarship",
+        "portal": "MahaDBT",
+        "state": "Maharashtra",
+        "categories": [
+            "SC",
+            "Neo-Buddhist"
+        ],
+        "educationLevels": [
+            "Post-Matric"
+        ],
+        "annualIncomeLimit": 250000,
+        "eligibility": [
+            "Student belongs to SC or eligible Neo-Buddhist category",
+            "Student is a Maharashtra resident",
+            "Family annual income is generally up to Rs. 2.5 lakh",
+            "Recognised post-matric course",
+            "Other official scheme conditions apply"
+        ],
+        "officialUrl": "https://mahadbt.maharashtra.gov.in/",
+        "eligibilityVerified": false
+    },
+    {
+        "id": "mahadbt-st-postmatric",
+        "name": "Post Matric Scholarship Scheme (Government of India)",
+        "portal": "MahaDBT",
+        "state": "Maharashtra",
+        "categories": [
+            "ST"
+        ],
+        "educationLevels": [
+            "Post-Matric"
+        ],
+        "annualIncomeLimit": null,
+        "eligibility": [
+            "Student belongs to Scheduled Tribe category",
+            "Student is a Maharashtra resident",
+            "Recognised post-matric course",
+            "Check the current scheme income limit and other conditions"
+        ],
+        "officialUrl": "https://mahadbt.maharashtra.gov.in/",
+        "eligibilityVerified": false
+    },
+    {
+        "id": "mahadbt-obc-postmatric",
+        "name": "Post Matric Scholarship to OBC Students",
+        "portal": "MahaDBT",
+        "state": "Maharashtra",
+        "categories": [
+            "OBC"
+        ],
+        "educationLevels": [
+            "Post-Matric"
+        ],
+        "annualIncomeLimit": 250000,
+        "eligibility": [
+            "Student belongs to OBC category",
+            "Student is a Maharashtra resident",
+            "Family annual income is generally up to Rs. 2.5 lakh",
+            "Recognised post-matric course",
+            "Course and admission-specific rules apply"
+        ],
+        "officialUrl": "https://mahadbt.maharashtra.gov.in/",
+        "eligibilityVerified": false
+    },
+    {
+        "id": "mahadbt-sbc-postmatric",
+        "name": "Post Matric Scholarship to SBC Students",
+        "portal": "MahaDBT",
+        "state": "Maharashtra",
+        "categories": [
+            "SBC"
+        ],
+        "educationLevels": [
+            "Post-Matric"
+        ],
+        "annualIncomeLimit": 250000,
+        "eligibility": [
+            "Student belongs to SBC category",
+            "Student is a Maharashtra resident",
+            "Family annual income is generally up to Rs. 2.5 lakh",
+            "Recognised post-matric course",
+            "75 percent attendance and other scheme rules may apply"
+        ],
+        "officialUrl": "https://mahadbt.maharashtra.gov.in/",
+        "eligibilityVerified": false
+    },
+    {
+        "id": "mahadbt-ebc-fee",
+        "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)",
+        "portal": "MahaDBT",
+        "state": "Maharashtra",
+        "categories": [
+            "Open"
+        ],
+        "economicGroups": [
+            "EBC",
+            "EWS"
+        ],
+        "educationLevels": [
+            "Eligible Diploma",
+            "Eligible Degree",
+            "Eligible Postgraduate"
+        ],
+        "annualIncomeLimit": null,
+        "eligibility": [
+            "Indian national",
+            "Maharashtra domicile",
+            "Eligible EBC or EWS applicant under the scheme rules",
+            "Recognised eligible course",
+            "CAP admission may be required",
+            "Verify current income limit and fee benefit for the specific course"
+        ],
+        "officialUrl": "https://mahadbt.maharashtra.gov.in/",
+        "eligibilityVerified": false
+    },
+    {
+        "id": "mahadbt-open-fee",
+        "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna",
+        "portal": "MahaDBT",
+        "state": "Maharashtra",
+        "categories": [
+            "Open"
+        ],
+        "economicGroups": [
+            "Eligible EBC",
+            "Eligible EWS"
+        ],
+        "educationLevels": [
+            "Eligible Diploma",
+            "Eligible Technical Degree",
+            "Eligible Professional Course"
+        ],
+        "annualIncomeLimit": null,
+        "eligibility": [
+            "Maharashtra domicile",
+            "Must meet the scheme's economic eligibility rules",
+            "Eligible technical or professional course",
+            "CAP admission and institution conditions may apply",
+            "Check current scheme rules for income and fee reimbursement"
+        ],
+        "officialUrl": "https://mahadbt.maharashtra.gov.in/",
+        "eligibilityVerified": false
+    }
+]

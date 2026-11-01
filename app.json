@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "ScholarMatch",
+    "slug": "scholarmatchapp",
+    "version": "1.0.0",
+    "scheme": "scholarmatchapp",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-image",
+      "expo-splash-screen",
+      "expo-status-bar",
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
